@@ -1,1 +1,1 @@
-<? PHP echo "Hello THM testing out RFI"; ?>
+<?PHP echo "Hello THM testing out RFI"; ?>
